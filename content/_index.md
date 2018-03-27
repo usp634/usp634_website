@@ -1,6 +1,6 @@
 ---
-title: "Data Analysis II"
-description: "Data Analysis II takes an applied approach to statistical analysis and research methodology and is the second in a two-course sequence. Provides students with statistical background, conceptual understanding, technical writing skills, computer application, and the ability to apply these skills to realistic data analysis problems and research designs. Topics include simple regression and correlation, multiple regression, and logistic regression. The laboratory (USP654L) must be taken concurrently. Recommended prerequisites: USP 534/634 or an equivalent course approved by the instructor and prior experience with statistical software."
+title: "Data Analysis I"
+description: "This course is designed to give students the necessary skills to analyze data for their research projects. Together with USP 654 Data Analysis II in the fall, the sequence will provide a thorough and reasonably comprehensive introduction to understanding, critically evaluating, conducting, and writing about analyses for most studies in social science- related disciplines. This course covers descriptive statistics, probability and distributions, hypothesis testing, association, and simple regression analysis. USP 654 Data Analysis II will cover regression analysis in more depth."
 markup: "mmark"
 ---
 
@@ -9,9 +9,9 @@ markup: "mmark"
 {.table .table-condensed .table-striped .text-left}
  <span></span>     | <span></span>
 ------------|---------------------------------------------
-When        |  Mon 4:00 - 7:30pm                         |
+When        |  Tue 4:00 - 7:30pm                         |
 Where       |  URBN 225                                  |
-Office Hours|  [Mon 2 - 4pm & by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUlwWnNVMTFpNHBGfGRlZmF1bHR8NDA1NGM4OTVlYTI4NjA0MGFhNjlhNDliMWZlNWY4YmU) at URBN 350D |
+Office Hours|  [Tue 2 - 3:45pm & by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUlwWnNVMTFpNHBGfGRlZmF1bHR8NDA1NGM4OTVlYTI4NjA0MGFhNjlhNDliMWZlNWY4YmU) at URBN 350D |
 
 ### Instructor
 {.table .table-condensed .table-striped .text-left}
@@ -25,10 +25,10 @@ Instructor        | [Liming Wang](https://lmwang.netlify.com/) | <a href="mailto
 {.table .table-condensed .table-striped .text-left}
  <span></span>     | <span></span> | <span></span> 
 -----------|---------------------------------|----------------------------------
-[Regression Analysis for the Social Sciences](https://www.amazon.com/Regression-Analysis-Social-Sciences-2/dp/113881251X) | Gordon, Rachel | Routledge, 2015
+[OpenIntro Statistics: 3rd ed.](https://www.amazon.com/OpenIntro-Statistics-Third-David-Diez/dp/194345003X) | Diez, D.M., Barr, C.D. and Çetinkaya-Rundel, M. | CreateSpace Independent Publishing Platform, 2015
 [R for Data Science](http://r4ds.had.co.nz/) | Grolemund, Wickham | O'Reilly, 1st edition, 2017
 
-We will read a few chapters in [Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences 3rd edition](https://www.amazon.com/Multiple-Regression-Correlation-Analysis-Behavioral/dp/0805822232) by Cohen et al from Routledge as supplement. Additional readings will be posted to [D2L/Readings](https://d2l.pdx.edu/d2l/le/content/667907/Home)
+Additional readings will be posted to [D2L/Readings](https://d2l.pdx.edu/d2l/le/content/667907/Home)
 
 ### Software
 

@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "USP 654 Fall 2017"
+title = "USP 634 Spring 2018"
 theme = "material"
 #disqusShortname = ""
 # googleAnalytics = ""
@@ -66,7 +66,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "DataCamp"
   name = "DataCamp"
   pre = "<i class=\"button-icon fa fa-2x fa-pencil\"></i>"
-  url = "https://www.datacamp.com/groups/usp654"
+  url = "https://www.datacamp.com/groups/usp634"
 [[menu.footer]]
   weight = 3
   identifier = "Slack"
@@ -78,10 +78,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "GitHub"
   name = "GitHub"
   pre = "<i class=\"button-icon fa fa-2x fa-github\"></i>"
-  url = "https://github.com/usp654/"
+  url = "https://github.com/usp634/"
 
 
 [params]
   dateFormat = "January 2, 2006"
-  background = "https://farm1.staticflickr.com/480/19400834865_668bfd7fa1_k_d.jpg"
+  background = "https://farm2.staticflickr.com/1611/25524034724_33b3db1b14_o_d.jpg"
   favicon = ""

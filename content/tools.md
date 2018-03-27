@@ -7,16 +7,16 @@ markup: "mmark"
 ### R + RStudio
 [R](https://cran.r-project.org) is the statistical programming language we will use in this class. We will interface with R using [RStudio](https://www.rstudio.com), a fully feautred IDE. Installing them on your own computer should be straightforward. If you already have them installed on your computer, I recommend you check the version and upgrade them to the latest version. Ask me for help if you have any problem installing them.
 
-- Download and install R 3.4.1 from https://ftp.osuosl.org/pub/cran/ for your operating system. (Requires administrator privellege)
+- Download and install R 3.4.3 from https://ftp.osuosl.org/pub/cran/ for your operating system. (Requires administrator privellege)
 - Download and install RStudio Desktop free version from https://www.rstudio.com/products/rstudio/download/
 
 ### DataCamp
 
-[DataCamp](https://www.datacamp.com/groups/usp654-data-analysis-2/) is an online service with dozens of self-paced, interactive courses on using R and Python for data analysis. Students in this course have free premium access to DataCamp courses, which are a good resource to learn R along with data analysis skills.
+[DataCamp](https://www.datacamp.com/groups/usp634-data-analysis-1/) is an online service with dozens of self-paced, interactive courses on using R and Python for data analysis. Students in this course have free premium access to DataCamp courses, which are a good resource to learn R along with data analysis skills.
 
 ### Slack
 
-[Slack](https://usp654-f17.slack.com/) is the communication platform we'll use for this course. You should have received an email with an invitation link to join the course Slack. All content related course communication will happen on Slack, in the relevant channels. For personal matters (only) you can [email me](emailto:lmwang@pdx.edu).
+[Slack](https://usp634-s18.slack.com/) is the communication platform we'll use for this course. You should have received an email with an invitation link to join the course Slack. All content related course communication will happen on Slack, in the relevant channels. For personal matters (only) you can [email me](emailto:lmwang@pdx.edu).
 
 ## Datasets
 
