@@ -66,13 +66,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "DataCamp"
   name = "DataCamp"
   pre = "<i class=\"button-icon fa fa-2x fa-pencil\"></i>"
-  url = "https://www.datacamp.com/groups/usp634"
+  url = "https://www.datacamp.com/enterprise/usp634-data-analysis-i"
 [[menu.footer]]
   weight = 3
   identifier = "Slack"
   name = "Slack"
   pre = "<i class=\"button-icon fa fa-2x fa-slack\"></i>"
-  url = "https://usp634-f17.slack.com/messages"
+  url = "https://usp634.slack.com/messages"
 [[menu.footer]]
   weight = 4
   identifier = "GitHub"

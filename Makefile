@@ -5,6 +5,7 @@ build:
 
 push: build
 	git status && \
+	git add . && \
 	git commit -a -m"Updated course webiste" && \
 	git push
 
