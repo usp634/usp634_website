@@ -15,8 +15,13 @@
   {{ range $.Site.Data.lessons }}
     {{range . }}
     <tr>
-      <td align="right">{{ .date }}</td>
-      <td>{{ .title }}</td>
+      {{ if .deadline }}
+        <td align="right"><b>{{ .date }}</b></td>
+        <td><b>{{ .title }}</b></td>
+      {{ else }}
+        <td align="right">{{ .date }}</td>
+        <td>{{ .title }}</td>
+      {{ end }}
       
       {{ if .reading }}
       <td align="center"><a href="{{ .Site.baseurl }}/reading/{{ .reading }}">
