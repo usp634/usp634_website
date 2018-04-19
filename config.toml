@@ -80,7 +80,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   pre = "<i class=\"button-icon fa fa-2x fa-github\"></i>"
   url = "https://github.com/usp634/"
 
-
 [params]
   dateFormat = "January 2, 2006"
   background = "https://farm2.staticflickr.com/1611/25524034724_33b3db1b14_o_d.jpg"
